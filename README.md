@@ -1,6 +1,6 @@
 # Vashantor2.0 [UNDER CONSTRUCTION]
 
-## Machine Translation Dataset for languages and Dialeccts of Bangladesh.
+## Machine Translation Dataset for languages and Dialects of Bangladesh.
 
 ## Languages:
 - Sylheti (syl_Beng)
